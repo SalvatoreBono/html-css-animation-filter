@@ -96,6 +96,7 @@
 .ex-11-icon {
     font-size: 60px;
 }
+/* Ex 11 Come velocizare la parte finale? */
 .ex-11-icon:hover{
     animation-name: icon2;
     animation-duration: 2s;
@@ -163,6 +164,7 @@
     width: 60px;
     height: 20px;
 }
+/* Ex 13 Metodo? */
 .ex-13-button:hover .ex-13-top-white{
     animation: completebuttontop 2s linear;
 }
